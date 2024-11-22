@@ -4,3 +4,6 @@
 
 ## v0.1.1.8 - Version Update
 - Updated version to v0.1.1.8
+
+## v0.1.1.9 - Version Update
+- Updated version to v0.1.1.9
